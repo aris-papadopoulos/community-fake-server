@@ -1,0 +1,188 @@
+{
+    "contributors":
+        {
+        "askil": {
+            "name": {
+                "first": "askil",
+                "last": "norderhaug"
+            },
+            "gender": "male",
+            "username": "askil",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/83.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+            },
+            "profileUrl": "www.greeka.com/images/members/aris/",
+            "friendshipStatus": "notFriends"
+        },
+        "frederik": {
+            "name": {
+                "first": "frederik",
+                "last": "sørensen"
+            },
+            "gender": "male",
+            "username": "frederik",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/81.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+            },
+            "profileUrl": "www.greeka.com/images/members/antonis/",
+            "friendshipStatus": "friendRequestSent"
+        },
+        "amy": {
+            "name": {
+                "first": "amy",
+                "last": "scott"
+            },
+            "gender": "female",
+            "username": "amy",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/74.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
+            },
+            "profileUrl": "www.greeka.com/images/members/dimitris/",
+            "friendshipStatus": "friendRequestReceived"
+        },
+        "eemil": {
+            "name": {
+                "first": "eemil",
+                "last": "ylitalo"
+            },
+            "gender": "male",
+            "username": "eemil",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/23.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
+            },
+            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "friendshipStatus": "isFriend"
+        },
+        "beatriz": {
+            "name": {
+                "first": "beatriz",
+                "last": "da mata"
+            },
+            "gender": "female",
+            "username": "beatriz",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/40.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/40.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/40.jpg"
+            },
+            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "friendshipStatus": "isFriend"
+        },
+        "virgil": {
+            "name": {
+                "first": "virgil",
+                "last": "fleming"
+            },
+            "gender": "male",
+            "username": "virgil",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/59.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+            },
+            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "friendshipStatus": "isFriend"
+        }
+    },
+    "latestMembers":
+        {
+        "yasemin": {
+            "name": {
+                "first": "yasemin",
+                "last": "paksüt"
+            },
+            "gender": "male",
+            "username": "yasemin",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/48.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+            },
+            "profileUrl": "www.greeka.com/members/yasemin/",
+            "friendshipStatus": "notFriends"
+        },
+        "william": {
+            "name": {
+                "first": "william",
+                "last": "martin"
+            },
+            "gender": "male",
+            "username": "william",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/62.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+            },
+            "profileUrl": "www.greeka.com/members/william/",
+            "friendshipStatus": "friendRequestSent"
+        },
+        "hans-otto": {
+            "name": {
+                "first": "hans-otto",
+                "last": "küsters"
+            },
+            "gender": "female",
+            "username": "hans-otto",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/25.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+            },
+            "profileUrl": "www.greeka.com/members/hans-otto/",
+            "friendshipStatus": "friendRequestReceived"
+        },
+        "tobias": {
+            "name": {
+                "first": "tobias",
+                "last": "kristensen"
+            },
+            "gender": "male",
+            "username": "tobias",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/68.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+            },
+            "profileUrl": "www.greeka.com/members/tobias/",
+            "friendshipStatus": "isFriend"
+        },
+        "camille": {
+            "name": {
+                "first": "camille",
+                "last": "wilson"
+            },
+            "gender": "female",
+            "username": "beatriz",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/44.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+            },
+            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "friendshipStatus": "isFriend"
+        },
+        "یاسمین": {
+            "name": {
+                "first": "یاسمین",
+                "last": "نجاتی"
+            },
+            "gender": "female",
+            "username": "virgil",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/72.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/72.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
+            },
+            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "friendshipStatus": "isFriend"
+        }
+    }
+}
