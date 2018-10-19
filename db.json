@@ -1,7 +1,6 @@
 {
-    "contributors":
+    "contributors": [
         {
-        "askil": {
             "name": {
                 "first": "askil",
                 "last": "norderhaug"
@@ -16,7 +15,7 @@
             "profileUrl": "www.greeka.com/images/members/aris/",
             "friendshipStatus": "notFriends"
         },
-        "frederik": {
+        {
             "name": {
                 "first": "frederik",
                 "last": "sørensen"
@@ -31,7 +30,7 @@
             "profileUrl": "www.greeka.com/images/members/antonis/",
             "friendshipStatus": "friendRequestSent"
         },
-        "amy": {
+        {
             "name": {
                 "first": "amy",
                 "last": "scott"
@@ -46,7 +45,7 @@
             "profileUrl": "www.greeka.com/images/members/dimitris/",
             "friendshipStatus": "friendRequestReceived"
         },
-        "eemil": {
+        {
             "name": {
                 "first": "eemil",
                 "last": "ylitalo"
@@ -61,7 +60,7 @@
             "profileUrl": "www.greeka.com/images/members/konstantinos/",
             "friendshipStatus": "isFriend"
         },
-        "beatriz": {
+        {
             "name": {
                 "first": "beatriz",
                 "last": "da mata"
@@ -76,7 +75,7 @@
             "profileUrl": "www.greeka.com/images/members/konstantinos/",
             "friendshipStatus": "isFriend"
         },
-        "virgil": {
+        {
             "name": {
                 "first": "virgil",
                 "last": "fleming"
@@ -91,7 +90,7 @@
             "profileUrl": "www.greeka.com/images/members/konstantinos/",
             "friendshipStatus": "isFriend"
         }
-    },
+    ],
     "latestMembers":
         {
         "yasemin": {
