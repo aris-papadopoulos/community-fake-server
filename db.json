@@ -91,9 +91,8 @@
             "friendshipStatus": "isFriend"
         }
     ],
-    "latestMembers":
+    "latestMembers": [
         {
-        "yasemin": {
             "name": {
                 "first": "yasemin",
                 "last": "paksüt"
@@ -108,7 +107,7 @@
             "profileUrl": "www.greeka.com/members/yasemin/",
             "friendshipStatus": "notFriends"
         },
-        "william": {
+        {
             "name": {
                 "first": "william",
                 "last": "martin"
@@ -123,7 +122,7 @@
             "profileUrl": "www.greeka.com/members/william/",
             "friendshipStatus": "friendRequestSent"
         },
-        "hans-otto": {
+        {
             "name": {
                 "first": "hans-otto",
                 "last": "küsters"
@@ -138,7 +137,7 @@
             "profileUrl": "www.greeka.com/members/hans-otto/",
             "friendshipStatus": "friendRequestReceived"
         },
-        "tobias": {
+        {
             "name": {
                 "first": "tobias",
                 "last": "kristensen"
@@ -153,7 +152,7 @@
             "profileUrl": "www.greeka.com/members/tobias/",
             "friendshipStatus": "isFriend"
         },
-        "camille": {
+        {
             "name": {
                 "first": "camille",
                 "last": "wilson"
@@ -168,7 +167,7 @@
             "profileUrl": "www.greeka.com/images/members/konstantinos/",
             "friendshipStatus": "isFriend"
         },
-        "یاسمین": {
+        {
             "name": {
                 "first": "یاسمین",
                 "last": "نجاتی"
@@ -183,5 +182,5 @@
             "profileUrl": "www.greeka.com/images/members/konstantinos/",
             "friendshipStatus": "isFriend"
         }
-    }
+    ]
 }
