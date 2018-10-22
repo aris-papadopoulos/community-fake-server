@@ -51,7 +51,7 @@
                 "last": "ylitalo"
             },
             "gender": "male",
-            "username": "eemil",
+            "username": "nefelimoir",
             "picture": {
                 "large": "https://randomuser.me/api/portraits/men/23.jpg",
                 "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
@@ -77,17 +77,17 @@
         },
         {
             "name": {
-                "first": "Alexis",
-                "last": "Moutopoulos"
+                "first": "virgil",
+                "last": "fleming"
             },
             "gender": "male",
-            "username": "alexis",
+            "username": "virgil",
             "picture": {
-                "large": "https://www.greeka.com/members/user_images/alexis/avatar/avat.jpg",
-                "medium": "https://www.greeka.com/members/user_images/alexis/avatar/avat.jpg",
-                "thumbnail": "https://www.greeka.com/members/user_images/alexis/avatar/avat.jpg"
+                "large": "https://randomuser.me/api/portraits/men/59.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
             },
-            "profileUrl": "www.greeka.com/members/alexis/",
+            "profileUrl": "www.greeka.com/members/konstantinos/",
             "friendshipStatus": "isFriend"
         }
     ],
@@ -158,7 +158,7 @@
                 "last": "wilson"
             },
             "gender": "female",
-            "username": "beatriz",
+            "username": "camille",
             "picture": {
                 "large": "https://randomuser.me/api/portraits/women/44.jpg",
                 "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
@@ -173,7 +173,7 @@
                 "last": "نجاتی"
             },
             "gender": "female",
-            "username": "virgil",
+            "username": "یاسمین",
             "picture": {
                 "large": "https://randomuser.me/api/portraits/women/72.jpg",
                 "medium": "https://randomuser.me/api/portraits/med/women/72.jpg",
