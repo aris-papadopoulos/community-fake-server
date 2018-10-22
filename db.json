@@ -12,7 +12,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/aris/",
+            "profileUrl": "www.greeka.com/members/aris/",
             "friendshipStatus": "notFriends"
         },
         {
@@ -27,7 +27,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/antonis/",
+            "profileUrl": "www.greeka.com/members/antonis/",
             "friendshipStatus": "friendRequestSent"
         },
         {
@@ -42,7 +42,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/dimitris/",
+            "profileUrl": "www.greeka.com/members/dimitris/",
             "friendshipStatus": "friendRequestReceived"
         },
         {
@@ -57,7 +57,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "profileUrl": "www.greeka.com/members/konstantinos/",
             "friendshipStatus": "isFriend"
         },
         {
@@ -72,7 +72,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/women/40.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/women/40.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "profileUrl": "www.greeka.com/members/konstantinos/",
             "friendshipStatus": "isFriend"
         },
         {
@@ -87,7 +87,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "profileUrl": "www.greeka.com/members/konstantinos/",
             "friendshipStatus": "isFriend"
         }
     ],
@@ -164,7 +164,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "profileUrl": "www.greeka.com/members/konstantinos/",
             "friendshipStatus": "isFriend"
         },
         {
@@ -179,7 +179,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/women/72.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "profileUrl": "www.greeka.com/members/konstantinos/",
             "friendshipStatus": "isFriend"
         }
     ]
