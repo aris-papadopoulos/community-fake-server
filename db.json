@@ -12,7 +12,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/aris/",
+            "profileUrl": "www.greeka.com/members/aris/",
             "friendshipStatus": "notFriends"
         },
         {
@@ -27,7 +27,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/antonis/",
+            "profileUrl": "www.greeka.com/members/antonis/",
             "friendshipStatus": "friendRequestSent"
         },
         {
@@ -42,7 +42,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/dimitris/",
+            "profileUrl": "www.greeka.com/members/dimitris/",
             "friendshipStatus": "friendRequestReceived"
         },
         {
@@ -57,7 +57,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "profileUrl": "www.greeka.com/members/konstantinos/",
             "friendshipStatus": "isFriend"
         },
         {
@@ -72,7 +72,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/women/40.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/women/40.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "profileUrl": "www.greeka.com/members/konstantinos/",
             "friendshipStatus": "isFriend"
         },
         {
@@ -87,7 +87,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "profileUrl": "www.greeka.com/members/konstantinos/",
             "friendshipStatus": "isFriend"
         }
     ],
@@ -164,7 +164,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "profileUrl": "www.greeka.com/members/konstantinos/",
             "friendshipStatus": "isFriend"
         },
         {
@@ -179,8 +179,205 @@
                 "medium": "https://randomuser.me/api/portraits/med/women/72.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
             },
-            "profileUrl": "www.greeka.com/images/members/konstantinos/",
+            "profileUrl": "www.greeka.com/members/konstantinos/",
             "friendshipStatus": "isFriend"
         }
-    ]
+    ],
+    "profiles": {
+        "alexis": {
+            "location": "Athens, Greece",
+            "age": 39,
+            "website": "https://www.greeka.com/members/aris",
+            "socialLinks": {
+                "facebook": "https://www.facebook.com/omoutop"
+            },
+            "about": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo.",
+            "interests": "Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt.",
+            "placesBeenIn": [
+                {
+                    "name": "Amorgos",
+                    "url": "/cyclades/aegina/"
+                },
+                {
+                    "name": "Corfu",
+                    "url": "/ionian/aegina/"
+                },
+                {
+                    "name": "Paros",
+                    "url": "/cyclades/aegina/"
+                },
+                {
+                    "name": "Santorini",
+                    "url": "/cyclades/aegina/"
+                }
+            ],
+            "latestPhotos": [
+                {
+                    "id": "09243762078",
+                    "imageUrl": "https://www.greeka.com/members/user_images/alexis/naxos-location-filoti-179725.jpg",
+                    "description": "Old windmill above Filoti village",
+                    "location": "Naxos"
+                },
+                {
+                    "id": "09243762062",
+                    "imageUrl": "https://www.greeka.com/members/user_images/alexis/naxos-potamia-sightseeing-epano-kastro-179716.jpg",
+                    "description": "Sunset from Epano Kastro",
+                    "location": "Naxos"
+                },
+                {
+                    "id": "09223752078",
+                    "imageUrl": "https://www.greeka.com/members/user_images/alexis/schinoussa-location-chora-179666.jpg",
+                    "description": "Kafenion Chara",
+                    "location": "Schinoussa"
+                },
+                {
+                    "id": "09123762078",
+                    "imageUrl": "https://www.greeka.com/members/user_images/alexis/naxos-location-town-179664.jpg",
+                    "description": "View from the Kastro of Naxos (+new family member)",
+                    "location": "Naxos"
+                },
+                {
+                    "id": "09243762078",
+                    "imageUrl": "https://www.greeka.com/members/user_images/alexis/lipsi-location-town-179572.jpg",
+                    "description": "Lipsi archipel",
+                    "location": "Lipsi"
+                },
+                {
+                    "id": "09243372078",
+                    "imageUrl": "https://www.greeka.com/members/user_images/alexis/lipsi-location-town-179571.jpg",
+                    "description": "Lipsi archipel",
+                    "location": "Lipsi"
+                },
+                {
+                    "id": "09243762078",
+                    "imageUrl": "https://www.greeka.com/members/user_images/alexis/lipsi-location-town-179569.jpg",
+                    "description": "Lipsi archipel",
+                    "location": "Lipsi"
+                },
+                {
+                    "id": "09258862078",
+                    "imageUrl": "https://www.greeka.com/members/user_images/alexis/lipsi-location-town-179561.jpg",
+                    "description": "House in the main village of Lipsi",
+                    "location": "Lipsi"
+                }
+            ],
+            "photoGalleries": [
+                {
+                    "id": "28396206808",
+                    "location": "Amorgos",
+                    "numOfPictures": 1
+                },
+                {
+                    "id": "28396206867",
+                    "location": "Chios",
+                    "numOfPictures": 12
+                },
+                {
+                    "id": "28396206861",
+                    "location": "Naxos",
+                    "numOfPictures": 141
+                },
+                {
+                    "id": "28396206827",
+                    "location": "General Greece",
+                    "numOfPictures": 16
+                },
+                {
+                    "id": "28396206817",
+                    "location": "Karpathos",
+                    "numOfPictures": 22
+                },
+                {
+                    "id": "28396206853",
+                    "location": "Meteora",
+                    "numOfPictures": 7
+                },
+                {
+                    "id": "28396206825",
+                    "location": "Pelion",
+                    "numOfPictures": 12
+                },
+                {
+                    "id": "28396206873",
+                    "location": "Santorini",
+                    "numOfPictures": 28
+                },
+            ],
+            "latestVideos": [
+                {
+                    "id": "64737733694",
+                    "title": "Essence of Lefkada",
+                    "location": "Lefkada",
+                    "videoUrl": "https://player.vimeo.com/video/176533719?title=0&byline=0&color=333333&autoplay=1&loop=1",
+                    "thumbUrl": "https://i.vimeocdn.com/video/583866706_200x150.jpg"
+                },
+                {
+                    "id": "64737733637",
+                    "title": "Santorini HD The best Island in Greece",
+                    "location": "Santorini",
+                    "videoUrl": "https://youtu.be/M84us5Wvy2U",
+                    "thumbUrl": "https://i.ytimg.com/vi/M84us5Wvy2U/1.jpg"
+                },
+                {
+                    "id": "64737733613",
+                    "title": "Super Paradise Official Video 2011 Mykonos",
+                    "location": "Mykonos",
+                    "videoUrl": "https://youtu.be/oGTf8VEqzwY",
+                    "thumbUrl": "https://i.ytimg.com/vi/oGTf8VEqzwY/1.jpg"
+                },
+                {
+                    "id": "64737733694",
+                    "title": "A summer day in Naxos Island",
+                    "location": "Naxos",
+                    "videoUrl": "https://youtu.be/mlqrzyL_7Kk",
+                    "thumbUrl": "https://i.ytimg.com/vi/mlqrzyL_7Kk/1.jpg"
+                }
+            ],
+            "friends": {
+                "numOfFriends": 265,
+                "list": [
+                    {
+                        "username": "labseklis",
+                        "url": "https://www.greeka.com/members/labseklis",
+                        "image": "https://www.greeka.com/members/user_images/labseklis/avatar/CycladeanCyclops2tee.jpg"
+                    },
+                    {
+                        "username": "rupco",
+                        "url": "https://www.greeka.com/members/rupco",
+                        "image": "https://www.greeka.com/members/user_images/rupco/avatar/1.jpg"
+                    },
+                    {
+                        "username": "blueplanet",
+                        "url": "https://www.greeka.com/members/blueplanet",
+                        "image": "https://www.greeka.com/members/user_images/blueplanet/avatar/Yannis.jpg"
+                    },
+                    {
+                        "username": "thera2000",
+                        "url": "https://www.greeka.com/members/thera2000",
+                        "image": "https://www.greeka.com/members/user_images/thera2000/avatar/IMG_6371.jpg"
+                    },
+                    {
+                        "username": "kirtigupta",
+                        "url": "https://www.greeka.com/members/kirtigupta",
+                        "image": "https://graph.facebook.com/1634532023256731/picture?type=large&width=800&height=600"
+                    },
+                    {
+                        "username": "ivodad",
+                        "url": "https://www.greeka.com/members/ivodad",
+                        "image": "https://www.greeka.com/members/user_images/ivodad/avatar/1900062_10200841028868328_397507566_n.jpg"
+                    },
+                    {
+                        "username": "kzar99",
+                        "url": "https://www.greeka.com/members/kzar99",
+                        "image": "https://www.greeka.com/members/user_images/kzar99/avatar/kzar99.jpg"
+                    },
+                    {
+                        "username": "nefelimoir",
+                        "url": "https://www.greeka.com/members/nefelimoir",
+                        "image": "https://www.greeka.com/members/user_images/nefelimoir/avatar/jhjkklbnkjkl.jpg"
+                    }
+                ]
+            }
+        }
+    }
 }
