@@ -77,17 +77,17 @@
         },
         {
             "name": {
-                "first": "virgil",
-                "last": "fleming"
+                "first": "Alexis",
+                "last": "Moutopoulos"
             },
             "gender": "male",
-            "username": "virgil",
+            "username": "alexis",
             "picture": {
-                "large": "https://randomuser.me/api/portraits/men/59.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+                "large": "https://www.greeka.com/members/user_images/alexis/avatar/avat.jpg",
+                "medium": "https://www.greeka.com/members/user_images/alexis/avatar/avat.jpg",
+                "thumbnail": "https://www.greeka.com/members/user_images/alexis/avatar/avat.jpg"
             },
-            "profileUrl": "www.greeka.com/members/konstantinos/",
+            "profileUrl": "www.greeka.com/members/alexis/",
             "friendshipStatus": "isFriend"
         }
     ],
